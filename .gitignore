@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.tanstack/
+.vite/
+.output/
+.env
+.env.*
+!.env.example
