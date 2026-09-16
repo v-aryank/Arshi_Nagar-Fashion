@@ -246,7 +246,7 @@ export default function Index() {
               The House of Arshi Nagar
             </p>
 
-            <h2 className="mt-4 font-display text-5xl leading-none text-forest dark:text-ivory sm:text-6xl">
+            <h2 className="mt-4 font-display text-5xl leading-none text-forest dark:text-gold sm:text-6xl">
               Made for the way
               <br />
               <em>you move.</em>
@@ -341,11 +341,11 @@ export default function Index() {
             <div className="mb-10 flex items-end justify-between gap-6">
 
               <div>
-                <p className="label-caps text-[0.6rem] text-gold">
-                  Curated for you
-                </p>
+                <h6 className="mt-2 font-display text-1xl text-gold dark:text-forest-deep">
+                Curted For You
+              </h6>
 
-                <h2 className="mt-2 font-display text-5xl text-forest dark:text-ivory">
+                <h2 className="mt-2 font-display text-5xl text-forest dark:text-gold">
                   The Arshi Nagar Selection
                 </h2>
               </div>
@@ -433,11 +433,11 @@ export default function Index() {
           <Reveal>
             <div className="mb-10">
 
-              <p className="label-caps text-[0.6rem] text-gold">
+              <h6 className="mt-2 font-display text-1xl text-gold dark:text-forest-deep">
                 Customer favourites
-              </p>
+              </h6>
 
-              <h2 className="mt-2 font-display text-5xl text-forest dark:text-ivory">
+              <h2 className="mt-2 font-display text-5xl text-forest dark:text-gold">
                 Most loved.
               </h2>
 
@@ -529,11 +529,11 @@ export default function Index() {
           <Reveal>
             <div className="mb-10">
 
-              <p className="label-caps text-[0.6rem] text-gold">
-                Just in
-              </p>
+              <h6 className="mt-2 font-display text-1xl text-gold dark:text-forest-deep">
+                Just In
+              </h6>
 
-              <h2 className="mt-2 font-display text-5xl text-forest dark:text-ivory">
+              <h2 className="mt-2 font-display text-5xl text-forest dark:text-gold">
                 New to Arshi Nagar.
               </h2>
 
@@ -566,7 +566,7 @@ export default function Index() {
               Stay in the loop
             </p>
 
-            <h2 className="mt-3 font-display text-5xl text-forest dark:text-ivory">
+            <h2 className="mt-3 font-display text-5xl text-forest dark:text-gold">
               Good things are coming.
             </h2>
 
