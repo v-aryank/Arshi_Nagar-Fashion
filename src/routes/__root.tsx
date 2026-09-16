@@ -4,6 +4,7 @@ import {
   Link,
   createRootRouteWithContext,
 } from "@tanstack/react-router";
+import { Analytics } from "@vercel/analytics/react";
 
 import appCss from "../style.css?url";
 import { ShopProvider } from "@/components/shop/ShopProvider";
@@ -134,6 +135,7 @@ function RootComponent() {
         <SearchOverlay />
         <CartDrawer />
       </ShopProvider>
+      <Analytics />
     </QueryClientProvider>
   );
 }
