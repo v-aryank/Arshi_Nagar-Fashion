@@ -17,7 +17,7 @@ Arshi Nagar is designed as a polished, editorial-style fashion shopping experien
 Arshi Nagar is a fashion-focused e-commerce website concept built with an emphasis on:
 
 - Editorial visual design
-- Bengali-inspired aesthetics
+- Modern aesthetics
 - Modern product presentation
 - Smooth interactions and animations
 - Responsive layouts
@@ -46,8 +46,7 @@ The interface combines deep forest tones, warm walnut accents, ivory surfaces, a
 ### > Visual Design
 
 - Editorial fashion-inspired layout
-- Bengali-inspired visual direction
-- Forest green, walnut, ivory and gold palette
+- Modern visual direction
 - Elegant serif typography
 - Subtle grain texture
 - Image-focused product presentation
