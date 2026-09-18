@@ -1,10 +1,10 @@
 # Arshi Nagar — Fashion E-Commerce Website
 
-A modern fashion e-commerce storefront combining classical Bengali aesthetics with contemporary web design.
+A modern fashion e-commerce storefront combining classical aesthetics with contemporary web design.
 
 Arshi Nagar is designed as a polished, editorial-style fashion shopping experience with curated collections, product browsing, responsive layouts, and a refined visual identity.
 
-## ✨ Live Preview
+## Live Preview
 
 **[Visit Arshi Nagar →](https://arshinagar-fashion.vercel.app/)**
 
@@ -12,7 +12,7 @@ Arshi Nagar is designed as a polished, editorial-style fashion shopping experien
 
 ---
 
-## 🖥️ Overview
+## Overview
 
 Arshi Nagar is a fashion-focused e-commerce website concept built with an emphasis on:
 
@@ -28,9 +28,9 @@ The interface combines deep forest tones, warm walnut accents, ivory surfaces, a
 
 ---
 
-## ✨ Features
+## Features
 
-### 🛍️ E-Commerce Experience
+### > E-Commerce Experience
 
 - Product browsing
 - Product categories
@@ -43,7 +43,7 @@ The interface combines deep forest tones, warm walnut accents, ivory surfaces, a
 - Search overlay
 - Responsive mobile navigation
 
-### 🎨 Visual Design
+### > Visual Design
 
 - Editorial fashion-inspired layout
 - Bengali-inspired visual direction
@@ -55,7 +55,7 @@ The interface combines deep forest tones, warm walnut accents, ivory surfaces, a
 - Hover interactions
 - Smooth transitions
 
-### 📱 Responsive
+### > Responsive
 
 Designed to provide a consistent experience across:
 
@@ -65,7 +65,7 @@ Designed to provide a consistent experience across:
 
 ---
 
-## 🛠️ Tech Stack
+## > Tech Stack
 
 - **React**
 - **TypeScript**
@@ -77,7 +77,7 @@ Designed to provide a consistent experience across:
 
 ---
 
-## 📂 Project Structure
+## > Project Structure
 
 ```text
 arshi_nagar/
